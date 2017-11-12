@@ -1,0 +1,15 @@
+{
+  "name": "biblio",
+  "main": "biblio_server.js",
+  "version": "1.0.0",
+  "description": "Progetto di Applicazioni e Servizi Web",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "xellafe@64.137.248.69:/var/node/biblio"
+  },
+  "author": "Federico Xella, Alessandro Contro, Lisa Sajeva",
+  "license": "ISC"
+}

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="192dp"
+    android:background="@color/colorPrimaryDark"
+    android:theme="@style/ThemeOverlay.AppCompat.Dark"
+    android:orientation="vertical"
+    android:gravity="bottom">
+
+    <RelativeLayout
+        android:id="@+id/user_data"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/infoBackground">
+
+        <RelativeLayout
+            android:id="@+id/user_data_container"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingTop="10dp"
+            android:paddingBottom="7dp"
+            android:layout_centerInParent="true">
+
+            <TextView
+                android:id="@+id/user_name"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:paddingBottom="3dp"
+                android:layout_centerHorizontal="true"
+                android:textColor="@color/textColor"
+                android:textSize="20sp" />
+
+            <TextView
+                android:id="@+id/badge_number"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:paddingBottom="3dp"
+                android:layout_centerHorizontal="true"
+                android:textSize="16sp"
+                android:layout_below="@id/user_name"
+                android:textColor="@color/textColor"
+                android:visibility="gone" />
+
+            <TextView
+                android:id="@+id/course_of_study"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:paddingBottom="3dp"
+                android:layout_centerHorizontal="true"
+                android:textSize="15sp"
+                android:layout_below="@id/badge_number"
+                android:textColor="@color/textColor"
+                android:visibility="gone" />
+
+        </RelativeLayout>
+
+    </RelativeLayout>
+
+</LinearLayout>

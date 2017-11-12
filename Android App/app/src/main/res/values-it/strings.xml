@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="unibo_logo_label">Logo Unibo</string>
+    <string name="registration_label">Registrazione Utente</string>
+    <string name="reg_note">NOTA: I tuoi dati saranno conservati sul tuo dispositivo e condivisi solo con le biblioteche affiliate.</string>
+    <string name="name_label">Nome</string>
+    <string name="surname_label">Cognome</string>
+    <string name="user_registration_label">Registrazione nuovo utente</string>
+    <string name="register_label">Registra</string>
+    <string name="account_settings_label">Impostazioni Account</string>
+    <string name="badge_label">Numero di Matricola</string>
+    <string name="course_label">Corso di Studio</string>
+    <string name="settings">Impostazioni</string>
+    <string name="unibo_students_label">Studenti UNIBO</string>
+    <string name="save_changes_label">Salva modifiche</string>
+    <string name="info_update_label">Informazioni aggiornate</string>
+    <string name="manual_mode_label">Modalità Manuale</string>
+    <string name="manual_mode_desc">In Modalità Manuale dovrai registrare i tuoi ingressi e le tue uscite manualmente.</string>
+    <string name="name_error_label">Il nome non può essere vuoto.</string>
+    <string name="surname_error_label">Il cognome non può essere vuoto.</string>
+    <string name="entrance_label">Ingresso</string>
+    <string name="exit_label">Uscita</string>
+    <string name="uuid_desc">Lo UID utente è il tuo identificativo all\'interno della rete delle biblioteche.</string>
+    <string name="view_uuid_label">Mostra UID utente</string>
+    <string name="notify_title">Biblioteca nei paraggi</string>
+    <string name="notify_text">Ti trovi vicino ad una biblioteca UNIBO</string>
+    <string name="close_label">Chiudi</string>
+    <string name="copy_user_uuid_label">Copia</string>
+    <string name="uuid_copied_label">UUID copiato</string>
+    <string name="library_label">Biblioteca</string>
+    <string name="no_course_label">Nessuno</string>
+    <string name="error_update_label">Errore durante l\'aggiornamento</string>
+    <string name="navigation_drawer_close">Chiudi navigation drawer</string>
+    <string name="navigation_drawer_open">Apri navigation drawer</string>
+    <string name="about_label">Info</string>
+    <string name="access_error_label">Errore durante l\'accesso</string>
+    <string name="access_success_label">Registrato presso</string>
+    <string name="day_label">Data</string>
+    <string name="exit_error_label">Errore durante l\'uscita</string>
+    <string name="exit_success_label">Registrata uscita</string>
+</resources>

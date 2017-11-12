@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Federico\AndroidStudioProjects\BiblIO\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="618485fef3ebe12127f7622abbc9b5b39057b5c2">
+        <dex dex="C:\Users\Federico\AndroidStudioProjects\BiblIO\app\build\intermediates\pre-dexed\release\com.google.android.gms-play-services-basement-9.4.0_62fa685feed788bbc10209647b6803d73e62c4fc.jar" />
+    </item>
+    <item
+        jar="C:\Users\Federico\AndroidStudioProjects\BiblIO\app\build\intermediates\exploded-aar\org.altbeacon\android-beacon-library\2.9.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="0b271af1568b43a528bba26d19c5874bb91c34cd">
+        <dex dex="C:\Users\Federico\AndroidStudioProjects\BiblIO\app\build\intermediates\pre-dexed\release\org.altbeacon-android-beacon-library-2.9.1_af11eed9e18f0116e7c06c911053c6f5797b652a.jar" />
+    </item>
+    <item
+        jar="C:\Users\Federico\AndroidStudioProjects\BiblIO\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\9.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="461e4257888c25ec05abcd91e758fe7f4949230a">
+        <dex dex="C:\Users\Federico\AndroidStudioProjects\BiblIO\app\build\intermediates\pre-dexed\release\com.google.android.gms-play-services-nearby-9.4.0_fe4e6e4f234e4a260b3f690a311881e4742f2a02.jar" />
+    </item>
+    <item
+        jar="C:\Users\Federico\AndroidStudioProjects\BiblIO\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\libs\internal_impl-23.4.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="C:\Users\Federico\AndroidStudioProjects\BiblIO\app\build\intermediates\pre-dexed\release\internal_impl-23.4.0_85b644fa3c7b012bc64a54916bce70cf3962bab1.jar" />
+    </item>
+    <item
+        jar="C:\Users\Federico\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\23.4.0\support-annotations-23.4.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="C:\Users\Federico\AndroidStudioProjects\BiblIO\app\build\intermediates\pre-dexed\release\support-annotations-23.4.0_d95ff0809d482481d563828b4da78c6ac63f7b54.jar" />
+    </item>
+    <item
+        jar="C:\Users\Federico\AndroidStudioProjects\BiblIO\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
+        <dex dex="C:\Users\Federico\AndroidStudioProjects\BiblIO\app\build\intermediates\pre-dexed\release\com.android.support-recyclerview-v7-23.4.0_54e44401cde424c5f351c0db2c7a69080895b823.jar" />
+    </item>
+    <item
+        jar="C:\Users\Federico\AndroidStudioProjects\BiblIO\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="C:\Users\Federico\AndroidStudioProjects\BiblIO\app\build\intermediates\pre-dexed\release\com.android.support-support-v4-23.4.0_a6e952e7e3ac329354c687cae42172d99c46d272.jar" />
+    </item>
+    <item
+        jar="C:\Users\Federico\AndroidStudioProjects\BiblIO\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="C:\Users\Federico\AndroidStudioProjects\BiblIO\app\build\intermediates\pre-dexed\release\com.android.support-support-vector-drawable-23.4.0_79c553737d283669ff87177e1b67f8cee8967921.jar" />
+    </item>
+    <item
+        jar="C:\Users\Federico\AndroidStudioProjects\BiblIO\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="8a36d229011e75f0caef408e1adf0d3fd4d94e02">
+        <dex dex="C:\Users\Federico\AndroidStudioProjects\BiblIO\app\build\intermediates\pre-dexed\release\com.google.android.gms-play-services-tasks-9.4.0_d16996f66883ea40f9f900d767c45769ecbfeb72.jar" />
+    </item>
+    <item
+        jar="C:\Users\Federico\AndroidStudioProjects\BiblIO\app\build\intermediates\exploded-aar\com.android.volley\volley\unspecified\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="b1cf6ab581c55b02c81a29f3af1a27c504539077">
+        <dex dex="C:\Users\Federico\AndroidStudioProjects\BiblIO\app\build\intermediates\pre-dexed\release\com.android.volley-volley-unspecified_9123e978b4328baa9bfd21d6d916b6e2e8dfdbf6.jar" />
+    </item>
+    <item
+        jar="C:\Users\Federico\AndroidStudioProjects\BiblIO\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="3dee4ce5844d39d843d503fb8fe04e51e5bfffac">
+        <dex dex="C:\Users\Federico\AndroidStudioProjects\BiblIO\app\build\intermediates\pre-dexed\release\com.google.android.gms-play-services-base-9.4.0_d5d0255bf63e3272cac5197143d539b1b63709bd.jar" />
+    </item>
+    <item
+        jar="C:\Users\Federico\AndroidStudioProjects\BiblIO\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="C:\Users\Federico\AndroidStudioProjects\BiblIO\app\build\intermediates\pre-dexed\release\com.android.support-appcompat-v7-23.4.0_643926c007d633205320750d3586272a5f448b12.jar" />
+    </item>
+    <item
+        jar="C:\Users\Federico\AndroidStudioProjects\BiblIO\app\build\intermediates\exploded-aar\com.android.support\design\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="5326d9a850d491714fef8cbfaa9ea3416f0bf0d2">
+        <dex dex="C:\Users\Federico\AndroidStudioProjects\BiblIO\app\build\intermediates\pre-dexed\release\com.android.support-design-23.4.0_1c739ac6e8326d212ea0d12bcf592c415cf3693a.jar" />
+    </item>
+    <item
+        jar="C:\Users\Federico\AndroidStudioProjects\BiblIO\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="C:\Users\Federico\AndroidStudioProjects\BiblIO\app\build\intermediates\pre-dexed\release\com.android.support-animated-vector-drawable-23.4.0_b4e9c5aa326049b8c1e16c44be8cf269edf96c6e.jar" />
+    </item>
+
+</items>

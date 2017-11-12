@@ -1,0 +1,84 @@
+<resources>
+    <string name="app_name" translatable="false">UniBiblio</string>
+    <string name="unibo_logo_label">Unibo Logo</string>
+
+    <string name="home" translatable="false">Home</string>
+    <string name="settings">Settings</string>
+    <string name="account_label" translatable="false">Account</string>
+    <string name="about_label">About</string>
+
+    <!-- Registration keys -->
+    <string name="reg_note">NOTE: Your data will be kept in your device and shared only with the affiliate libraries.</string>
+    <string name="user_registration_label">Register new user</string>
+    <string name="name_label">Name</string>
+    <string name="surname_label">Surname</string>
+    <string name="register_label">Register</string>
+
+    <!-- MainActivity -->
+    <string name="library_label">Library</string>
+    <string name="service_status_label" translatable="false">Service status</string>
+    <string name="bind_status_label" translatable="false">Bind status</string>
+    <string name="entrance_label">Entrance - </string>
+    <string name="exit_label">Exit - </string>
+
+    <string name="day_label">Date - </string>
+
+    <!-- AccountActivity -->
+    <string name="account_settings_label">Account Settings</string>
+    <string name="unibo_students_label">UNIBO Students</string>
+    <string name="badge_label">Badge Number</string>
+    <string name="course_label">Course of Study</string>
+    <string name="save_changes_label">Save Changes</string>
+
+    <string name="name_error_label">Name shouldn\'t be empty.</string>
+    <string name="surname_error_label">Surname shouldn\'t be empty.</string>
+    <string name="info_update_label">Information updated</string>
+    <string name="error_update_label">Error in update</string>
+    <string name="no_course_label">None</string>
+
+    <!-- SettingsActivity -->
+    <string name="manual_mode_label">Manual Mode</string>
+    <string name="manual_mode_desc">In Manual Mode you must register you entrances and exits manually.</string>
+    <string name="view_uuid_label">View User UID</string>
+    <string name="user_uid_label" translatable="false">User UID</string>
+    <string name="uuid_desc">User UID is your identifier across the libraries network.</string>
+    <string name="copy_user_uuid_label">Copy</string>
+    <string name="uuid_copied_label">UUID copied</string>
+
+    <!-- SharedPreference keys -->
+    <string name="shared_preference" translatable="false">com.federicoxella.biblio.SHARED_PREFERENCE</string>
+    <string name="default_string" translatable="false">!NONE!</string>
+    <string name="is_in_foreground" translatable="false">IS_FOREGROUND</string>
+    <string name="user_uid" translatable="false">UUID</string>
+    <string name="user_name" translatable="false">USERNAME</string>
+    <string name="user_surname" translatable="false">USER_SURNAME</string>
+    <string name="badge_number" translatable="false">BADGE</string>
+    <string name="course_of_study" translatable="false">COURSE</string>
+    <string name="course_of_study_id" translatable="false">COURSE_ID</string>
+    <string name="check_beacon_mode" translatable="false">MODE</string>
+    <string name="check_beacon_mode_automatic" translatable="false">Automatic</string>
+    <string name="check_beacon_mode_manual" translatable="false">Manual</string>
+    <string name="registered_status" translatable="false">REGISTERED_STATUS</string>
+    <string name="is_registered" translatable="false">Registered</string>
+    <string name="not_registered" translatable="false">Not Registered</string>
+    <string name="first_start" translatable="false">FIRST_START</string>
+    <string name="is_true" translatable="false">True</string>
+    <string name="is_false" translatable="false">False</string>
+
+    <!-- Utility -->
+    <string name="registration_label">User Registration</string>
+    <string name="notify_title">Library discovered</string>
+    <string name="notify_text">There is an UNIBO library nearby</string>
+    <string name="close_label">Close</string>
+    <string name="title_activity_main" translatable="false">MainActivity</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="access_success_label">Signed at</string>
+    <string name="exit_success_label">Unsigned from library</string>
+
+    <string name="access_error_label">Error during access</string>
+    <string name="exit_error_label">Error during exit</string>
+
+</resources>
